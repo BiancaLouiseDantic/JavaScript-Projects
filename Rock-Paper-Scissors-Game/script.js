@@ -36,3 +36,5 @@ optionImages.forEach((image, index) => {
 
 
    // Create an array of CPU image options
+
+   // Set the CPU image to a random option from the array

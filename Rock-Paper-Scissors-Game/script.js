@@ -20,3 +20,5 @@ optionImages.forEach((image, index) => {
     console.log(e.target)
   });
 });
+
+ // Set a timeout to delay the result calculation

@@ -21,7 +21,7 @@ optionImages.forEach((image, index) => {
   });
 });
 
- // Set a timeout to delay the result calculation
+  // Set a timeout to delay the result calculation
 
 
 
@@ -29,4 +29,7 @@ optionImages.forEach((image, index) => {
   // Get the source of the clicked option image
 
 
-   // Set the user image to the clicked option image
+  // Set the user image to the clicked option image
+
+
+   // Generate a random number between 0 and 2

@@ -22,4 +22,8 @@ optionImages.forEach((image, index) => {
 });
 
  // Set a timeout to delay the result calculation
-   // Get the source of the clicked option image
+
+
+
+ 
+  // Get the source of the clicked option image

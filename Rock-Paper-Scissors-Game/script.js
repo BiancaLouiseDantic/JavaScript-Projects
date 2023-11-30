@@ -25,5 +25,8 @@ optionImages.forEach((image, index) => {
 
 
 
- 
+
   // Get the source of the clicked option image
+
+
+   // Set the user image to the clicked option image

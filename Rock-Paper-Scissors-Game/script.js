@@ -7,6 +7,7 @@ optionImages = document.querySelectorAll(".option_image");
 
 //Loop through each option image element
 optionImages.forEach((image, index) => {
+  //image on click
   image.addEventListener("click", (e) => {
     image.classList.add("active");
 

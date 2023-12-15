@@ -5,7 +5,7 @@ cpuResult = document.querySelector(".cpu_result img"),
 result = document.querySelector(".result"),
 optionImages = document.querySelectorAll(".option_image");
 
-//Loop thrpugh each option image element
+//Loop through each option image element
 optionImages.forEach((image, index) => {
   image.addEventListener("click", (e) => {
     image.classList.add("active");

@@ -1,5 +1,6 @@
 //Get to DOM elements
 const gameContainer = document.querySelector(".container"),
+//user result
 userResult = document.querySelector(".user_result img"),
 cpuResult = document.querySelector(".cpu_result img"),
 result = document.querySelector(".result"),
